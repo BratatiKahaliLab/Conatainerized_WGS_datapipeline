@@ -1,1 +1,1 @@
-# Conatainerized_WGS_datapipeline
+# Conatainerized_WGS_data_pipeline
