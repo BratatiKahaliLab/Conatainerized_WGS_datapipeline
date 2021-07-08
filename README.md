@@ -1,4 +1,4 @@
-# Conatainerized_WGS_data_pipeline
+# Containerized_WGS_Data_Pipeline
 
 
 
