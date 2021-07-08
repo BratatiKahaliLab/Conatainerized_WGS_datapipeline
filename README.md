@@ -2,10 +2,11 @@
 
 
 
-This repository holds respective Dockerfile and links to software packages used in the paper titled "Implementation of human whole genome sequencing data analysis: A containerized framework for sustained and enhanced throughput". 
+This repository holds respective Dockerfile and links to software packages used in the paper titled as follows:-
+
+#### "Implementation of human whole genome sequencing data analysis: A containerized framework for sustained and enhanced throughput". 
 
 ###### AUTHORS:- Abhishek Panda, Krithika Subramanian, Dr. Bratati Kahali
-
 ###### AFFILIATION:- Centre for Brain Research, Indian Institute of Science, Bangalore, INDIA
 
 
