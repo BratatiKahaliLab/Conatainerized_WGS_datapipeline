@@ -25,4 +25,4 @@ This repository holds respective Dockerfile and links to software packages used 
          
 
 
-The links file in this repo consists of all the software packages used for the WGS pipeline and the tar of the container image. Download all the software packages from the link and put them in the local directory of the given Dockerfile. 
+##### NOTE:The links file in this repo consists of all the software packages used for the WGS pipeline and the tar of the container image. Download all the software packages from the link and put them in the local directory of the given Dockerfile. 
