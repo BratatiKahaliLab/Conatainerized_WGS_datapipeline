@@ -2,7 +2,7 @@
 
 
 
-This repository holds respective Dockerfile, links to software packages and useful pointers used in the paper titled "Implementation of human whole genome sequencing data analysis: A containerized framework for sustained and enhanced throughput". 
+This repository holds respective Dockerfile and links to software packages used in the paper titled "Implementation of human whole genome sequencing data analysis: A containerized framework for sustained and enhanced throughput". 
 
 ###### AUTHORS:- Abhishek Panda, Krithika Subramanian, Dr. Bratati Kahali
 
