@@ -22,4 +22,6 @@ This repository holds respective Dockerfile, links to software packages and usef
          
          
          
-#### The tar of the container image is already created and available in the links file
+
+
+The links file in this repo consists of all the software packages used for the WGS pipeline and the tar of the container image.
